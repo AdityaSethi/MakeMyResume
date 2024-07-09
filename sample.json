@@ -1,0 +1,90 @@
+{
+  "personalDetails": {
+    "name": "John Doe",
+    "title": "Software Engineer",
+    "email": "john.doe@example.com",
+    "phone": "+1-234-567-890",
+    "location": {
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "USA"
+    },
+    "linkedin": "https://www.linkedin.com/in/johndoe",
+    "github": "https://github.com/johndoe"
+  },
+  "summary": "Experienced Software Engineer with a strong background in developing scalable web applications and working across the full stack. Skilled in various programming languages and frameworks, with a passion for continuous learning and improvement.",
+  "workExperience": [
+    {
+      "company": "Tech Solutions Inc.",
+      "location": "San Francisco, CA",
+      "position": "Senior Software Engineer",
+      "startDate": "2020-01-01",
+      "endDate": "Present",
+      "responsibilities": [
+        "Led a team of 5 engineers to develop and maintain a scalable web application serving over 1 million users.",
+        "Implemented RESTful APIs using Node.js and Express, improving the performance of data retrieval operations by 30%.",
+        "Collaborated with the front-end team to integrate React components, resulting in a seamless user experience."
+      ]
+    },
+    {
+      "company": "Web Innovators LLC",
+      "location": "San Jose, CA",
+      "position": "Software Engineer",
+      "startDate": "2017-06-01",
+      "endDate": "2019-12-31",
+      "responsibilities": [
+        "Developed and maintained web applications using JavaScript, HTML, and CSS.",
+        "Worked on a project to migrate a legacy system to a modern architecture, reducing technical debt by 40%.",
+        "Participated in code reviews and contributed to the improvement of coding standards and best practices."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of California, Berkeley",
+      "degree": "Bachelor of Science in Computer Science",
+      "startDate": "2013-09-01",
+      "endDate": "2017-05-31",
+      "gpa": "3.8"
+    }
+  ],
+  "skills": [
+    "JavaScript",
+    "Node.js",
+    "React",
+    "HTML",
+    "CSS",
+    "SQL",
+    "Git",
+    "Agile Methodologies"
+  ],
+  "projects": [
+    {
+      "name": "Project Management Tool",
+      "description": "Developed a web-based project management tool using React and Node.js, allowing users to track and manage their projects efficiently.",
+      "url": "https://github.com/johndoe/project-management-tool"
+    },
+    {
+      "name": "E-commerce Platform",
+      "description": "Built an e-commerce platform using JavaScript, HTML, and CSS, providing a user-friendly interface for online shopping.",
+      "url": "https://github.com/johndoe/e-commerce-platform"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Certified JavaScript Developer",
+      "issuer": "JavaScript Certification Board",
+      "issueDate": "2018-07-01"
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "Native"
+    },
+    {
+      "language": "Spanish",
+      "proficiency": "Professional Working Proficiency"
+    }
+  ]
+}
